@@ -5,6 +5,7 @@
 # TRex 🦖
 
 TRex captures any text right into your Clipboard with magic of OCR. 
+Thanks to the original creator.
 
 But what is OCR anyway? Imagine you have a PDF file or a Web page where you can't select the text, image with text on it, or even a YouTube video. Forget retyping it manually; with TRex, you can extract text from anywhere, and it is as easy as taking a screenshot.
 
